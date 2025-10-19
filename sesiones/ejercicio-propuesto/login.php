@@ -24,7 +24,6 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Iniciar Sesión - PHP</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
-    <!-- 👇 Bootstrap Icons -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
 
     <style>
@@ -138,7 +137,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         </div>
         <div class="text-center">
             <a href="../../home.php" class="btn-back">
-                <i class="fa-solid fa-house"></i> Volver al Home
+                <i class="fa fa-home"></i> Volver al Home
             </a>
         </div>
     </div>

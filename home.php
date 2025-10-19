@@ -144,7 +144,7 @@
                             <li><a href="poo/3-ejercicio.php" class="btn btn-ejercicio w-100 mb-2">Ejercicio 3</a></li>
                             <li><a href="poo/4-ejercicio.php" class="btn btn-ejercicio w-100 mb-2">Ejercicio 4</a></li>
                             <li><a href="poo/5-ejercicio.php" class="btn btn-ejercicio w-100 mb-2">Ejercicio 5</a></li>
-                            <li><a href="poo/ejercicio-propuesto.php" class="btn btn-ejercicio w-100 mb-2">Ejercicio Propuesto</a></li>
+                            <li><a href="poo/ejercicio-propuesto.php" class="btn btn-ejercicio w-100 mb-2">Ejercicio Propuesto - Cálculo de rectangulo</a></li>
                         </ul>
                     </div>
                 </div>
@@ -164,7 +164,8 @@
                             <li><a href="sesiones/3-ejercicio/formulario.php" class="btn btn-ejercicio w-100 mb-2">Ejercicio 3</a></li>
                             <li><a href="sesiones/4-ejercicio.php" class="btn btn-ejercicio w-100 mb-2">Ejercicio 4</a></li>
                             <li><a href="sesiones/5-ejercicio.php" class="btn btn-ejercicio w-100 mb-2">Ejercicio 5</a></li>
-                            <li><a href="sesiones/ejercicio-propuesto/bienvenida.php" class="btn btn-ejercicio w-100 mb-2">Ejercicio Propuesto</a></li>
+                            <li><a href="sesiones/ejercicio-propuesto/bienvenida.php" class="btn btn-ejercicio w-100 mb-2">Ejercicio Propuesto 1 - Inicio de sesión</a></li>
+                            <li><a href="sesiones/ejercicio-propuesto2/login.php" class="btn btn-ejercicio w-100 mb-2">Ejercicio Propuesto 2 - Carrito de compra </a></li>
                         </ul>
                     </div>
                 </div>
